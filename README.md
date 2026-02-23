@@ -100,3 +100,5 @@ La documentation complete est disponible sur **[doc.oneneurone.com](https://doc.
 Logiciel proprietaire — [YPSI SAS](https://ypsi.fr)
 
 Une licence d'evaluation est incluse. Pour une licence commerciale, contactez [contact@ypsi.fr](mailto:contact@ypsi.fr).
+
+Ce logiciel utilise des composants open-source. Voir [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md) pour la liste complete.
