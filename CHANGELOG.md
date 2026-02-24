@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.5 — 2026-02-24
+
+- Chiffrement at-rest ZN pour la base OneNeurone + fix double-stack middleware
+
 ## 1.1.4 — 2026-02-24
 
 ## 1.1.3 — 2026-02-23
