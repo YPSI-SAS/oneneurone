@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.20 — 2026-04-26
+
+- OCR vision pour PDFs aplatis attaches au graphe
+
 ## 1.1.18 — 2026-04-16
 
 ## 1.1.14 — 2026-03-27
